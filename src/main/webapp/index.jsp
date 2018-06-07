@@ -8,11 +8,11 @@
 <table>
 	<form>
 		<tr>
-			<td>USERNAME</td>
+			<td>Username</td>
 			<td><input type="text" name="username"></td>
 		</tr>
 		<tr>
-			<td>PASSWORD</td>
+			<td>Password</td>
 			<td><input type="password" name="password"></td>
 		</tr>
 		<tr>
